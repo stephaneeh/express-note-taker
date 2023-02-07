@@ -4,8 +4,27 @@
         "text": "Test text"
     },
     {
-        "title": "Steph was here",
-        "text": "Please work",
-        "noteID": "5acd04cf-0914-4a21-ba48-e752fb6e3393"
+        "title": "This is my first note",
+        "text": "Dont forget to do this",
+        "notes_ID": "64e48300-5733-47ec-a79a-3baf334e9260"
+    },
+    {
+        "title": "Hello there",
+        "text": "Dont forget this thing",
+        "notes_ID": "a4d3b613-1cf2-449e-b41f-0c2fdbc5aef8"
+    },
+    {
+        "title": "This is Bob",
+        "text": "Bob says hi\n",
+        "notes_ID": "9d86"
+    },
+    {
+        "title": "Steph to do",
+        "text": "Remember this",
+        "note_ID": "13d7"
+    },
+    {
+        "title": "Insomnia Test",
+        "note_ID": "908d"
     }
 ]
