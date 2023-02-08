@@ -1,17 +1,7 @@
 [
     {
-        "title": "Hello Friend",
-        "text": "This is update 1",
-        "note_id": "f830"
-    },
-    {
-        "title": "Test",
-        "text": "This is a test entry",
-        "note_id": "05ce"
-    },
-    {
-        "title": "You were here",
-        "text": "Now you aren't",
-        "note_id": "79da"
+        "title": "Welcome to your first note",
+        "text": "This is how we add notes",
+        "id": "a203"
     }
 ]
