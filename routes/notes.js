@@ -3,17 +3,15 @@ const uuid = require('./../helpers/uuid');
 const fs = require('fs');
 const {
     readFromFile,
-    readAndAppend,
     writeToFile,
 } = require('./../helpers/fsUtils');
-
 
 //GET route for retrieving all notes from db.json file
 notes.get('/', (req, res) => {
     readFromFile('./db/db.json').then((data) => res.json(JSON.parse(data)));
 });
 
-// GET Route for a specific note
+// GET Route for a specific note based on ID
 notes.get('/:id', (req, res) => {
   const noteId = req.params.id;
   readFromFile('./db/db.json')
@@ -57,8 +55,8 @@ notes.post('/', (req, res) => {
       text,
       id: uuid(),
       };
-  
-        // Obtain existing notes
+
+        // Load existing notes
         readFromFile('./db/db.json', 'utf8', (err, data) => {
             if (err) {
               console.error(err);
