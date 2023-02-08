@@ -1,30 +1,17 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text"
+        "title": "Hello Friend",
+        "text": "This is update 1",
+        "note_id": "f830"
     },
     {
-        "title": "This is my first note",
-        "text": "Dont forget to do this",
-        "notes_ID": "64e48300-5733-47ec-a79a-3baf334e9260"
+        "title": "Test",
+        "text": "This is a test entry",
+        "note_id": "05ce"
     },
     {
-        "title": "Hello there",
-        "text": "Dont forget this thing",
-        "notes_ID": "a4d3b613-1cf2-449e-b41f-0c2fdbc5aef8"
-    },
-    {
-        "title": "This is Bob",
-        "text": "Bob says hi\n",
-        "notes_ID": "9d86"
-    },
-    {
-        "title": "Steph to do",
-        "text": "Remember this",
-        "note_ID": "13d7"
-    },
-    {
-        "title": "Insomnia Test",
-        "note_ID": "908d"
+        "title": "You were here",
+        "text": "Now you aren't",
+        "note_id": "79da"
     }
 ]
