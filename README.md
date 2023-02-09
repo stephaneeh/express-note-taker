@@ -4,7 +4,7 @@
 
 This project was to create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
 
-This application has been deployed via Heroku, available here - https://tranquil-spire-72595.herokuapp.com/notes
+This application has been deployed via Heroku, available here - https://tranquil-spire-72595.herokuapp.com/
 
 
 ## Structure
@@ -15,7 +15,7 @@ This application has been deployed via Heroku, available here - https://tranquil
 
 ## Application
 
-The Express Note taker can be found here - https://tranquil-spire-72595.herokuapp.com/notes
+The Express Note taker can be found here - https://tranquil-spire-72595.herokuapp.com/
 
 ## Screenshots of application
 
